@@ -1,2 +1,8 @@
 # Pathfinding-Visualiser
-Dijkstra's algorithm is a popular algorithm used to find the shortest path between two nodes in a graph. The visualization allows you to see how the algorithm explores the graph and determines the shortest path.
+A web application to visualize various pathfinding algorithms on a Grid. The algorithms used in this project are Breadth-First Search, Depth-First Search and Dijkstra's.
+
+## How to Install:
+- Clone the repository
+- Install dependencies using 'npm install'
+- Start the server using 'npm start'
+- Open http://localhost:3000 to view it in the browser.
